@@ -1,6 +1,6 @@
 # Image Colorization Project
 
-This project implements a deep learning model for colorizing grayscale images using PyTorch. The model is based on a U-Net architecture and is trained to predict the a and b color channels (in LAB color space) from the L (luminance) channel.
+This project implements a deep learning model for colorizing grayscale images using PyTorch. The model is based on a U-Net architecture and is trained to predict the a and b color channels (in LAB color space) from the L (luminance) channel (made with Claude Sonnet 3.7).
 
 ## Project Structure
 
